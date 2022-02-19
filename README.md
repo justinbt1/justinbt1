@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm a geoscientist turned data scientist, seeking to use my skills to have a positive impact on the world.
 
 <!--
 **robert-drop-table/robert-drop-table** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
