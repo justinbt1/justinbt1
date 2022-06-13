@@ -5,4 +5,4 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jboylantoomey/)
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/justinbt)  
 
-I'm a geoscientist turned data scientist, seeking to have a positive impact on the world.
+Wellcome to my profile, I am a geoscientist turned data scientist, seeking to have a positive impact on the world.
