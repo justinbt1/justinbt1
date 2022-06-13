@@ -6,3 +6,6 @@
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/justinbt)  
 
 Wellcome to my profile, I am a geoscientist turned data scientist, seeking to have a positive impact on the world.
+
+#### 🏢 Work
+Currently leading the data science team and profession at [@wellcometrust](https://github.com/wellcometrust).
