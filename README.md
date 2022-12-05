@@ -8,4 +8,4 @@
 Welcome to my profile, I am a geoscientist turned data scientist, seeking to have a positive impact on the world.
 
 #### 🏢 Work
-Lead Data scientist, leading the data science team and profession at the [@wellcometrust](https://github.com/wellcometrust).
+Lead Machine Learning Engineer, leading the data science team and profession at the [@wellcometrust](https://github.com/wellcometrust).
