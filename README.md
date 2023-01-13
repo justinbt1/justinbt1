@@ -9,3 +9,8 @@ Welcome to my profile, I am a geoscientist turned data scientist, seeking to hav
 
 #### 🏢 Work
 Lead Machine Learning Engineer, leading the data science team and profession at the [@wellcometrust](https://github.com/wellcometrust).
+
+#### 🙂 Play
+Some fun side projects I am currently tinkering with:
+- IKibble a feed tracker for cats, on a raspberry pie kiosk.
+- Eat Pray Lock an AI powered edge device for detecting in a cat has prey.
