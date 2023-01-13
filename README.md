@@ -13,4 +13,4 @@ Lead Machine Learning Engineer, leading the data science team and profession at 
 #### 🤖 Play
 Some fun side projects I am currently tinkering with:
 - IKibble a feed tracker for cats, on a raspberry pie kiosk.
-- Eat Pray Lock an AI powered edge device for detecting in a cat has prey.
+- Eat Pray Lock an AI powered edge device for detecting if a cat has prey.
