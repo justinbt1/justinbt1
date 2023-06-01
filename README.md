@@ -6,6 +6,6 @@
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/justinbt)  
 
 #### 🏢 Work
-I'm a Lead Machine Learning Engineer, currently leading the Machine Learning Team and the development of the data science profession within Data & Digital at the [@wellcometrust](https://github.com/wellcometrust).
+Hello! I lead the Data Science Team and profession within Data & Digital at the [Wellcome Trust](https://wellcome.org). Where we are working to help understand Wellcome’s medical research funding portfolio and its impacts.
 
-In my technical work I am focused on applying deep learning, natural language processing and network analysis to develop new measures for assessing the impact of Wellcome’s research funding.
+In my technical work I am focused on applying deep learning, graph analysis and natural language processing (LLMs) techniques to develop metrics and measures for assessing the impact of our funding portfolio. If you are interested, you can follow our work on the [Wellcome Data blog](https://medium.com/wellcome-data).
