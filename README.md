@@ -5,7 +5,5 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jboylantoomey/)
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/justinbt)  
 
-Hello welcome to my profile!
-
 #### 🏢 Work
 Lead Machine Learning Engineer, leading the data science team and profession at the [@wellcometrust](https://github.com/wellcometrust).
