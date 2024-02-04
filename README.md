@@ -11,4 +11,4 @@ I lead the Machine Learning Team at the [Wellcome Trust](https://wellcome.org), 
 In my technical work I am focused on applying deep learning, graph analysis and natural language processing (LLMs) techniques to develop metrics and measures for assessing the impact of our funding portfolio. If you are interested, you can follow our work on the [Wellcome Data blog](https://medium.com/wellcome-data).
 
 #### ☕ Get in Touch
-I am always interested in discussing the use of data and machine learning in research funding and data science for public good.
+I am always interested in discussing the use of data and machine learning in research funding and the use of data science for public good.
