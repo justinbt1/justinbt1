@@ -14,7 +14,5 @@ Areas I have worked on at Wellcome (working with many fantastic colleagues, team
 
 **Wellcome Academic Graph:** Designed, modelled and developed the Wellcome Academic Graph, a heterogeneous academic graph stored in Neo4j. Capturing over 2 billion relationships between 200 million academic entities, enabling our work to apply and development network based metrics and geometric machine learning.
 
-**Vector Database:** Created a vector store, a foundational part of our new data infrastructure. Building a large-scale data pipeline with multi-GPU parallelisation with SciBERT and Nvidia RAPIDS for efficient inference and embedding of millions of publication and grant texts for storage in our Milvus vector database.
-
 #### ☕ Get in Touch
 I am always interested in discussing the use of data and machine learning in research funding and data science for public good.
