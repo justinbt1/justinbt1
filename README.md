@@ -8,5 +8,7 @@
 #### 🏢 Work
 Currently I lead the Machine Learning team at the [Wellcome Trust](https://wellcome.org/), where we develop machine learning models and metrics to support Wellcome fund new discoveries in life, health, and wellbeing. We also support the [Wellcome Collection](https://wellcomecollection.org/), a museum that explores the connections between medicine, life and art.
 
+I also do pro bono data science consulting, mostly working to help the third sector tackle its challenges using data with [DataKind UK](https://datakind.org.uk/).
+
 #### ☕ Get in Touch
 I am always interested in discussing the use of data and machine learning in research funding and data science for public good.
