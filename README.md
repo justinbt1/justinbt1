@@ -11,4 +11,4 @@ Currently I lead the Machine Learning team at the [Wellcome Trust](https://wellc
 I also do pro bono data science consulting, mostly working to help third sector organisations tackle their challenges using data with [DataKind UK](https://datakind.org.uk/).
 
 #### ☕ Get in Touch
-I am always interested in discussing the use of data and machine learning in research funding and data science for public good.
+I am always interested in discussing the use of data and machine learning in research funding or for public good.
