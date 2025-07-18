@@ -7,7 +7,6 @@ I also do pro bono data science consulting, mostly working to help third sector 
 
 ### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=justinbt1&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=justinbt1&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=justinbt1&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 
 ### ☕ Get in Touch
