@@ -5,9 +5,16 @@ Currently I lead the Machine Learning team at the [Wellcome Trust](https://wellc
 
 I also do pro bono data science consulting, mostly working to help third sector organisations tackle their challenges using data with [DataKind UK](https://datakind.org.uk/).
 
+### 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=justinbt1&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=justinbt1&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=justinbt1&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+
 ### ☕ Get in Touch
 [![](https://img.shields.io/badge/Website-purple?style=flat-square)](https://jboylantoomey.com)
 [![](https://img.shields.io/badge/BlueSky-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://bsky.app/profile/neocognitron.bsky.social)
 [![](https://img.shields.io/badge/Medium-f5f5f5?style=flat-square&logo=medium&logoColor=12100E)](https://medium.com/@justinboylantoomey)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jboylantoomey/)
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/justinbt)  
+
+[![](https://visitcount.itsvg.in/api?id=justinbt1&icon=0&color=0)](https://visitcount.itsvg.in)
