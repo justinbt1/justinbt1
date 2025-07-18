@@ -15,5 +15,3 @@ I also do pro bono data science consulting, mostly working to help third sector 
 [![](https://img.shields.io/badge/Medium-f5f5f5?style=flat-square&logo=medium&logoColor=12100E)](https://medium.com/@justinboylantoomey)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jboylantoomey/)
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/justinbt)  
-
-[![](https://visitcount.itsvg.in/api?id=justinbt1&icon=0&color=1)](https://visitcount.itsvg.in)
