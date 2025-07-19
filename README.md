@@ -7,7 +7,6 @@ I also do pro bono data science consulting, mostly working to help third sector 
 
 ### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=justinbt1&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=justinbt1&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 
 ### ☕ Get in Touch
 [![](https://img.shields.io/badge/Website-purple?style=flat-square)](https://jboylantoomey.com)
