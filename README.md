@@ -5,9 +5,6 @@ Currently I lead the Machine Learning team at the [Wellcome Trust](https://wellc
 
 I also do pro bono data science consulting, mostly working to help third sector organisations tackle their challenges using data with [DataKind UK](https://datakind.org.uk/).
 
-### 📊GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=justinbt1&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-
 ### ☕ Get in Touch:
 [![](https://img.shields.io/badge/Website-purple?style=flat-square)](https://jboylantoomey.com)
 [![](https://img.shields.io/badge/BlueSky-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://bsky.app/profile/neocognitron.bsky.social)
